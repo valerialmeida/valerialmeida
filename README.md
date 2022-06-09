@@ -23,7 +23,4 @@ Até o momento aprendi HTML, CSS, JavaScript- ES6, jQuery, SASS, Bootstrap, Reac
 
 <a href="https://www.linkedin.com/in/valeria-filha-454a81239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<div>
-<a href="https://github.com/valerialmeida"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valerialmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
