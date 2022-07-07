@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Olá! Bem vindo ao meu perfil no Github! 
 Meu nome é Valéria, tenho 25 anos e sou advogada. Estou em transição de carreira para a área de Tech, inicialmente com foco em Full Stack.
-Até o momento aprendi HTML, CSS, JavaScript- ES6, jQuery, SASS, Bootstrap, React e Redux através do FreeCodeCamp e do HIRING CODERS-VTEX.
+Até o momento aprendi HTML, CSS, JavaScript, TypeScript, React e Node.js através do FreeCodeCamp e do HIRING CODERS-VTEX.
 
 <div>
   <a href = "valeriafilha75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
